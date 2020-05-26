@@ -1,2 +1,2 @@
 # TicTacToe-cpp
-A simple TicTacToe terminalgame written in C++.
+A simple TicTacToe terminal game written in C++.
